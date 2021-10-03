@@ -1,0 +1,7 @@
+name: MinecraftMEH
+author: moi
+version: 0.2
+main: fr.vianney.minecraftmeh.main
+commands:
+  menu:
+    description: permet dafficher le menu pour choisir les modes de jeu
